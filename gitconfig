@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anastasia.ebel@googlemail.com
+	name = Anastasia Ebel
